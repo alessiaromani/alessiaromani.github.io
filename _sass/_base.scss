@@ -17,6 +17,7 @@ table {
     color: var(--global-text-color);
   }
   td {
+    font-family: helvetica;
     font-size: 1rem;
   }
 }
@@ -34,6 +35,10 @@ a, table.table a {
 
 figure, img {
   max-width: 90vw;
+  display: inline;
+  margin: 0 auto;
+  height: 100%;
+  width: auto;
 }
 
 blockquote {
@@ -41,6 +46,7 @@ blockquote {
   border-left: 2px solid var(--global-theme-color);
   margin: 1.5em 10px;
   padding: 0.5em 10px;
+  font-family: helvetica;
   font-size: 1.2rem;
 }
 
@@ -54,6 +60,7 @@ blockquote {
 // Caption
 
 .caption {
+  font-family: helvetica;
   font-size: 0.875rem;
   margin-top: 0.75rem;
   margin-bottom: 1.5rem;
@@ -98,6 +105,7 @@ blockquote {
   .address {
     margin-bottom: 5px;
     margin-top: 5px;
+    font-family: helvetica;
     font-family: monospace;
     p {
       display: inline-block;
@@ -123,6 +131,7 @@ blockquote {
 
 .post-description {
   margin-bottom: 2rem;
+  font-family: helvetica;
   font-size: 0.875rem;
   a {
     color: inherit;
@@ -179,6 +188,7 @@ blockquote {
   }
   .navbar-nav .nav-item.active>.nav-link {
       background-color: inherit;
+      font-family: helvetica;
       font-weight: bolder;
       color: var(--global-theme-color);
       &:hover {
@@ -188,6 +198,7 @@ blockquote {
   .navbar-brand.social {
     padding-bottom: 0;
     padding-top: 0;
+    font-family: helvetica;
     font-size: 1.7rem;
     a {
       i::before {
@@ -253,7 +264,8 @@ blockquote {
 .social {
   text-align: center;
   .contact-icons {
-    font-size: 4rem;
+    font-family: helvetica;
+    font-size: 2rem;
     a {
       i::before {
         color: var(--global-text-color);
@@ -267,6 +279,7 @@ blockquote {
     }
   }
   .contact-note {
+    font-family: helvetica;
     font-size: 0.8rem;
   }
 }
@@ -275,11 +288,12 @@ blockquote {
 // Footer
 footer.fixed-bottom {
   background-color: var(--global-footer-bg-color);
-  font-size: 0.75rem;
+  font-family: helvetica;
+  font-size: 0.5rem;
   .container {
     color: var(--global-footer-text-color);
-    padding-top: 9px;
-    padding-bottom: 8px;
+    padding-top: 3px;
+    padding-bottom: 3px;
   }
   a {
     color: var(--global-footer-link-color);
@@ -294,6 +308,7 @@ footer.sticky-bottom {
   border-top: 1px solid var(--global-divider-color);
   padding-top: 40px;
   padding-bottom: 40px;
+  font-family: helvetica;
   font-size: 0.9rem;
 }
 
@@ -301,11 +316,11 @@ footer.sticky-bottom {
 
 .cv {
   margin-bottom: 40px;
-  
+
   .card {
     background-color: var(--global-card-bg-color);
     border: 1px solid var(--global-divider-color);
-    
+
     .list-group-item {
       background-color: inherit;
       border-color: var(--global-divider-color);
@@ -335,6 +350,7 @@ footer.sticky-bottom {
   padding-bottom: 3rem;
   h1 {
     color: var(--global-theme-color);
+    font-family: helvetica;
     font-size: 5rem;
   }
 }
@@ -364,15 +380,17 @@ footer.sticky-bottom {
   li {
     border-bottom: 1px solid var(--global-divider-color);
     list-style: none;
-    padding-top: 2rem;
-    padding-bottom: 2rem;
+    padding-top: 0.3rem;
+    padding-bottom: 0.1rem;
     .post-meta {
       color: var(--global-text-color-light);
+      font-family: helvetica;
       font-size: 0.875rem;
       margin-bottom: 0;
     }
     .post-tags {
       color: var(--global-text-color-light);
+      font-family: helvetica;
       font-size: 0.875rem;
       padding-top: 0.25rem;
       padding-bottom: 0;
@@ -446,16 +464,16 @@ footer.sticky-bottom {
   }
 
   .grid-sizer, .grid-item {
-    width: 250px;
-    margin-bottom: 10px;
+    width: 185px;
+    margin-bottom: 5px;
   }
 
   h2.category {
     color: var(--global-divider-color);
     border-bottom: 1px solid var(--global-divider-color);
     padding-top: 0.5rem;
-    margin-top: 2rem;
-    margin-bottom: 1rem;
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
     text-align: right;
   }
 }
@@ -467,23 +485,25 @@ footer.sticky-bottom {
   margin-top: 2rem;
   h1 {
     color: var(--global-theme-color);
+    font-family: helvetica;
     font-size: 2rem;
     text-align: center;
     margin-top: 1em;
     margin-bottom: 1em;
   }
   h2 {
-    margin-bottom: 1rem;
+    margin-bottom: 0.5rem;
     span {
+      font-family: helvetica;
       font-size: 1.5rem;
     }
   }
   h2.year {
     color: var(--global-divider-color);
     border-top: 1px solid var(--global-divider-color);
-    padding-top: 1rem;
-    margin-top: 2rem;
-    margin-bottom: -2rem;
+    padding-top: 0rem;
+    margin-top: 1rem;
+    margin-bottom: -3rem;
     text-align: right;
   }
   ol.bibliography {
@@ -519,7 +539,9 @@ footer.sticky-bottom {
         }
       }
       .title {
+        font-family: helvetica;
         font-weight: bolder;
+        margin-top: 0.6rem;
       }
       .author {
         a {
@@ -531,6 +553,7 @@ footer.sticky-bottom {
         }
         > em {
           border-bottom: 1px solid;
+          font-family: helvetica;
           font-style: normal;
         }
         > span.more-authors {
@@ -570,6 +593,7 @@ footer.sticky-bottom {
         }
       }
       .hidden {
+        font-family: helvetica;
         font-size: 0.875rem;
         max-height: 0px;
         overflow: hidden;
@@ -585,6 +609,7 @@ footer.sticky-bottom {
           margin: 10px;
         }
         pre {
+          font-family: helvetica;
           font-size: 1em;
           line-height: 1.4em;
           padding: 10px;
@@ -646,11 +671,13 @@ html.transition *:after {
 .post{
   .post-meta{
     color: var(--global-text-color-light);
+    font-family: helvetica;
     font-size: 0.875rem;
     margin-bottom: 0;
   }
   .post-tags{
     color: var(--global-text-color-light);
+    font-family: helvetica;
     font-size: 0.875rem;
     padding-top: 0.25rem;
     padding-bottom: 1rem;
@@ -676,38 +703,38 @@ progress {
      left: 0;
      top: 56px;
      z-index: 10;
-   
+
      /* Dimensions */
      width: 100%;
      height: 1px;
-   
+
      /* Reset the appearance */
      -webkit-appearance: none;
         -moz-appearance: none;
              appearance: none;
-   
+
      /* Get rid of the default border in Firefox/Opera. */
      border: none;
-   
+
      /* Progress bar container for Firefox/IE10  */
      background-color: transparent;
-   
+
      /* Progress bar value for IE10  */
      color: var(--global-theme-color);
  }
- 
+
  progress::-webkit-progress-bar {
      background-color: transparent;
  }
-   
+
  progress::-webkit-progress-value {
      background-color: var(--global-theme-color);
  }
-   
+
  progress::-moz-progress-bar {
      background-color: var(--global-theme-color);
  }
- 
+
  .progress-container {
      width: 100%;
      background-color: transparent;
@@ -717,7 +744,7 @@ progress {
      height: 5px;
      display: block;
  }
- 
+
  .progress-bar {
      background-color: var(--global-theme-color);
      width: 0%;

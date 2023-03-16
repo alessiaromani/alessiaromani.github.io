@@ -1,7 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+title: A long announcement with details
+date: 2015-11-07 16:11:00-0400
 inline: true
 ---
 
-A simple inline announcement.
+The first version of RepMat is now available!   . See below.
