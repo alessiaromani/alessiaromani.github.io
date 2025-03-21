@@ -495,7 +495,14 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
+          window.open("mailto:%72%6F%6D%61%6E%69%61%6C%65%73%73%69%61.%39%33@%67%6D%61%69%6C.%63%6F%6D", "_blank");
+        },
+      },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/alessiaromani", "_blank");
         },
       },{
         id: 'social-inspire',
@@ -503,6 +510,48 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://inspirehep.net/authors/1010907", "_blank");
+        },
+      },{
+        id: 'social-instagram',
+        title: 'Instagram',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://instagram.com/alessia.romani_ar", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in//alessiaromani93/", "_blank");
+        },
+      },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0000-0001-8602-0974", "_blank");
+        },
+      },{
+        id: 'social-osf',
+        title: 'Open Science Framework',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://osf.io/6y8jx/", "_blank");
+        },
+      },{
+        id: 'social-publons',
+        title: 'Publons',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://publons.com/a/AAL-3486-2021/", "_blank");
+        },
+      },{
+        id: 'social-researchgate',
+        title: 'ResearchGate',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.researchgate.net/profile/Alessia-Romani/", "_blank");
         },
       },{
         id: 'social-rss',
@@ -519,10 +568,17 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=cUgLkjsAAAAJ", "_blank");
         },
       },{
+        id: 'social-scopus',
+        title: 'Scopus',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.scopus.com/authid/detail.uri?authorId=57218687288", "_blank");
+        },
+      },{
         id: 'social-custom_social',
         title: 'Custom_social',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://www.appropedia.org/User:A.Romani", "_blank");
         },
       },];
