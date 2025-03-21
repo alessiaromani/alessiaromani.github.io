@@ -445,6 +445,11 @@ ninja.data = [{
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
+            },},{id: "projects-recycled-filtered-contaminants-from-liquid-fed-pyrolysis-as-novel-building-composite-material",
+          title: 'Recycled filtered contaminants from liquid-fed pyrolysis as novel building composite material',
+          description: "Alessia Romani, Daniel Kulas, Joseph Curro, David R. Shonnard, Joshua M. Pearce",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2025Romanietal/";
             },},{id: "projects-project-2",
           title: 'project 2',
           description: "a project with a background image and giscus comments",
@@ -511,7 +516,7 @@ ninja.data = [{
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
+          window.open("https://scholar.google.com/citations?user=cUgLkjsAAAAJ", "_blank");
         },
       },{
         id: 'social-custom_social',
