@@ -1,0 +1,157 @@
+---
+layout: pageter
+title: Recycled filtered contaminants from <br>liquid-fed pyrolysis as novel building composite material
+description: <b><u>Alessia Romani</u></b>, Daniel Kulas, Joseph Curro, David R. Shonnard, Joshua M. Pearce
+journal: Journal of Building Engineering
+publisher: Elsevier
+img: assets/img/recyclatelibrary/R_R_B_1.jpg
+importance: 4
+category: 2025
+---
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+
+
+<blockquote><h4><b>Abstract</b></h4>
+Liquid-fed pyrolysis allows the conversion of contaminated postconsumer plastic waste into valuable resources, removing contaminants through wax dissolution and filtration. One of the main challenges is currently represented by the management of its main byproduct, the contaminant-rich retentate from the filtration process. New circular economy strategies are needed to use this waste plastic-based composite as secondary raw materials. Despite the increasing trend in using plastic and plastic-waste composites for the building sector, there are currently limited applications of industrial recycling waste as engineering construction materials, e.g., from pyrolysis. This study evaluates the suitability of contaminant-rich retentate from liquid-fed pyrolysis of postconsumer multilayer packaging waste as novel composite materials for the building sector, taking advantage of its intrinsic composite nature. Thermogravimetric analysis was conducted to assess the composition of the retentate from filtration, a mixture of wax, polyethylene, polyethylene terephthalate, and aluminum. The compressive mechanical properties and densities were then evaluated on samples obtained through hot compression molding, using two batches to assess possible anisotropic behavior from the manufacturing process or the aluminum part orientation. The results indicate the suitability of the waste composite material for the building sector, reaching compression strengths (10–12 MPa) superior to construction bricks and brickworks (7 MPa), as well as 57 % lower density, 0.77 g/cm3. The ductile fracture behavior indicates its potential use for applications requiring failure prediction and safety constraints. This high strength-to-weight ratio composite represents a valuable alternative to virgin materials, showing potential for structural and aesthetic applications, including lightweight bricks, interior textured panels, decorative facades, and customized pavement tiles and slabs. Hot compression molding of pyrolysis waste composite paves the way for the real use of plastic-based composites from mixed and contaminated industrial waste in the building sector, contrasting resource depletion.
+</blockquote>
+
+<br>
+
+        {% include figure.liquid path="assets/img/publications/GA_2025Romanietal.png" title="example image" class="img-fluid" %}
+    </div>
+</div>
+<div class="caption">
+    <i>Graphical Abstract</i>
+</div>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-4 mt-3 mt-md-0" style="text-align:left">
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0" style="text-align:center">
+  <a href="/recyclatelibrary/" target="_self"><b>↶</b> Back</a>
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0" style="text-align:right">
+        <td align="right"><a href="/projects/RecLi_C001_M02/" target="_self"><b>→</b> Next</a></td>
+    </div>
+</div>
+<br>
+
+<hr>
+<h4><b>Main info</b></h4>
+<h5>Secondary raw material #001</h5>
+
+<br>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Cluster</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        001 - Recycled PLA (> 3mm)
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Waste/Scrap type</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        PLA from 3D printed products and trials.
+    </div>
+</div>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Waste/Scrap producer</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Internal waste stream (+LAB)
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Recycling steps</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        Mechanical recycling (shredding and sieving).
+    </div>
+</div>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Recyclate producer</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        <a href="https://superforma.xyz/">SuperForma</a> (shredding) and <a href="http://piulab.it">+LAB</a> (sieving).
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Recyclate nominal size</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        > 3 mm (after sieving).
+    </div>
+</div>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Recyclate cycle</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        1 (shredding + extrusion).
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Materials library reference</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        <a href="/projects/MatLi_C001_L1_S01/" target="_blank" title="Recyclate sample"><i class='fas fa-square' style='font-size:1rem'></i> <b>C001_L1_S01</b></a> <a href="/projects/MatLi_C001_L1_S02/" target="_blank" title="Recyclate sample"><i class='fas fa-square' style='font-size:1rem'></i> <b>C001_L1_S02</b></a> <a href="/projects/MatLi_C001_L1_S03/" target="_blank" title="Recyclate sample"><i class='fas fa-square' style='font-size:1rem'></i> <b>C001_L1_S03</b></a> <a href="/projects/MatLi_C001_L1_S04/" target="_blank" title="Recyclate sample"><i class='fas fa-square' style='font-size:1rem'></i> <b>C001_L1_S04</b></a> <br>
+        <a href="/projects/MatLi_C001_L1_S05/" target="_blank" title="Recyclate sample"><i class='fas fa-square' style='font-size:1rem'></i> <b>C001_L1_S05</b></a> <a href="/projects/MatLi_C001_L1_S06/" target="_blank" title="Recyclate sample"><i class='fas fa-square' style='font-size:1rem'></i> <b>C001_L1_S06</b></a> <a href="/projects/MatLi_C001_L1_S07/" target="_blank" title="Recyclate sample"><i class='fas fa-square' style='font-size:1rem'></i> <b>C001_L1_S07</b></a> <a href="/projects/MatLi_C001_L1_S08/" target="_blank" title="Recyclate sample"><i class='fas fa-square' style='font-size:1rem'></i> <b>C001_L1_S08</b></a>
+    </div>
+</div>
+<br>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+        <b>Product library reference</b>
+    </div>
+    <div class="col-sm-9 mt-3 mt-md-0" style="text-align:left">
+        //
+    </div>
+</div>
+<br>
+
+<hr>
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+    <h4><b>Resources <br>and links</b></h4>
+    </div>
+    <div class="col-sm-2 mt-3 mt-md-0" style="text-align:center">
+    <a href="https://www.sciencedirect.com/science/article/pii/S2589234723003238" title="Research article"><i class='fas fa-clipboard-check' style='font-size:3rem'></i></a> <br><b>Research article</b>
+    </div>
+</div>
+
+<br>
+<hr>
+
+<br>
+<div class="row justify-content-sm-center">
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:left">
+      </div>
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:center">
+  <a href="/recyclatelibrary/" target="_self"><b>↶</b> Back</a>
+    </div>
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:center">
+  <a href="#" target="_self"><b>↑</b> Top</a>
+    </div>
+    <div class="col-sm-3 mt-3 mt-md-0" style="text-align:right">
+        <td align="right"><a href="/projects/RecLi_C001_M02/" target="_self"><b>→</b> Next</a></td>
+    </div>
+</div>
